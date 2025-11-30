@@ -14,10 +14,10 @@ YOUTUBE = 'https://www.youtube.com/watch?v=5oQ8y5itE-c'
 INSTAGRAM = 'https://www.instagram.com/thompsonmaktablari.uz/'
 TELEGRAM = 'https://t.me/thompson_maktablari'
 LOCATION = 'https://maps.app.goo.gl/tpcktv1jTbBnBQM67'
-PHONE = '+99893-386-19-95'
+PHONE = '+99893-123-45-67'
 LATITUDE = 41.357974
 LONGITUDE = 69.23971
-CHAT_ID = 833921061
+CHAT_ID = 0000000000000
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
