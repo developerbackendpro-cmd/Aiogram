@@ -6,7 +6,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.types import InlineKeyboardButton, BotCommand
 
-API_TOKEN = '8023296312:AAFZvasvkaPKwvmfkPHXf5Q7AmoDaJLSvNg'
+API_TOKEN = ''
 
 admission = True
 
