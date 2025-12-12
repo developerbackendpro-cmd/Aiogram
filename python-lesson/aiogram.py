@@ -17,7 +17,7 @@ LOCATION = 'https://maps.app.goo.gl/tpcktv1jTbBnBQM67'
 PHONE = '+99893-123-45-67'
 LATITUDE = 41.357974
 LONGITUDE = 69.23971
-CHAT_ID = 0000000000000
+CHAT_ID = 833921061
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
