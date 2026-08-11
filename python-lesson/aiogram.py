@@ -11,7 +11,7 @@ from aiogram.client.default import DefaultBotProperties
 from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
 API_TOKEN = ""
-GROUP_CHAT_ID = 833921061
+GROUP_CHAT_ID = 111111111
 SCHOOL_NAME_UZ = "Anonim"
 SCHOOL_NAME_RU = "Аноним"
 SCHOOL_TIME_START = "8:00"
